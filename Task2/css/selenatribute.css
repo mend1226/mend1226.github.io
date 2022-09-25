@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+
+<style>
+	
+	h1{
+		text-align: center;
+		font-size: 5vw;
+		font-family: 'Combo', cursive;
+		text-shadow: 2px 2px grey;  
+		
+		
+	}
+	
+	
+	h2{
+		text-align: center;
+		font-size: 3vw;
+		background-color: antiquewhite;
+		border-left: solid 20px burlywood;
+		border-right: solid 20px burlywood;
+		
+		}
+	img{
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+	border-radius: 20px 20px 20px 20px; 
+	
+}
+
+
+	h3{
+		font-size: 2vw;
+		text-align: center;
+		
+		
+		
+	}
+
+	ul{
+		font-size: 1.5vw;
+		
+	}
+
+
+	
+	#p1{
+	text-align: center;
+	font-size: 2vw;
+	
+	
+		
+	
+	font-family: 'Combo', cursive;
+	text-shadow: 1px 1px grey;
+	}
+	
+	#p2{font-size: 1.7vw;
+		text-align: center;
+		
+		
+	}
+	
+	a{color: darkred}
+	
+
+	body{
+	background-color: antiquewhite;	
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+	main{
+		background-color: burlywood;
+	}
+</style>
