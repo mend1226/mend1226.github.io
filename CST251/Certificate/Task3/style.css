@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+body{
+	background-color: lightcyan;
+	 
+}
+
+header{
+	font-size: 2.3rem;
+	text-shadow: 1.5px 1.5px navy;
+}
+nav ul li{
+	list-style: none;
+	
+}
+
+
+
+
+a:visited{
+	color: darkslategray;
+}
+
+a:active{
+	color: darkslateblue;
+}
+
+.example{
+	background-color: lightgray;
+	font-size: 1.1rem;
+	padding: 6px;
+}
+
+a:hover{
+	font-size: 20px;
+	color: darkturquoise;
+	
+}
+
+div{
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: flex-start;
+		align-items: center;
+		flex-direction: row;
+	}
+@media(max-width:768px){
+	
+}
+@media (max-width: 480px){
+	
+}
