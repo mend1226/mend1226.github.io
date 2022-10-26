@@ -1,0 +1,80 @@
+@charset "UTF-8";
+
+body{
+	background-color: lightcyan;
+
+}	 
+
+
+header{
+	font-size: 2.3rem;
+	text-shadow: 1.5px 1.5px navy;
+}
+nav ul li{
+	list-style: none;
+
+}
+
+p{
+	font-size: 1.2rem;
+}
+
+li{
+	font-size: 1.1rem;
+}
+
+
+a:visited{
+	color: darkslategray;
+}
+
+a:active{
+	color: darkslateblue;
+}
+
+.example{
+	background-color: lightgray;
+	font-size: 1.2rem;
+	padding: 6px;
+	width: 400px;
+	padding-left: 20px;
+}
+
+a:hover{
+	font-size: 20px;
+	color: darkturquoise;
+	
+}
+
+h3{
+	text-align: center;
+}
+
+#first{
+	text-align: center;
+}
+
+
+
+
+@media (max-width: 480px){
+
+
+
+nav ul li{
+  display: block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 60px;
+}
+
+		
+	
+	.main-section{
+		text-align: center;
+		 
+		
+	}
+	
+}
