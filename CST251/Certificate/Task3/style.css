@@ -34,7 +34,7 @@ a:active{
 
 .example{
 	background-color: lightgray;
-	font-family: "Lucida Console", "Menlo", "Monaco", "Courier", monospace;
+	font-family: "Courier";
 	font-size: 1.2rem;
 	padding: 6px;
 	width: 470px;
